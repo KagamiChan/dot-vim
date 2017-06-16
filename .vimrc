@@ -14,3 +14,6 @@ set tabstop=2 shiftwidth=2 expandtab
 
 filetype on
 au BufNewFile,BufRead *.es set filetype=javascript.jsx
+
+set wildmenu
+set wildmode=list:longest,list:full,full
