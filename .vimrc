@@ -21,3 +21,5 @@ set wildmode=list:longest,list:full,full
 autocmd BufEnter * EnableStripWhitespaceOnSave
 
 set guifont=Fira\ Code:h16
+
+set autochdir
