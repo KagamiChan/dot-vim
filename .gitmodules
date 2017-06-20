@@ -34,3 +34,6 @@
 [submodule "bundle/auto-pairs"]
 	path = bundle/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/denite.nvim"]
+	path = bundle/denite.nvim
+	url = https://github.com/Shougo/denite.nvim.git
