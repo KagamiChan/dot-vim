@@ -23,3 +23,5 @@ autocmd BufEnter * EnableStripWhitespaceOnSave
 set guifont=Fira\ Code:h16
 
 set autochdir
+
+set number
