@@ -2,6 +2,7 @@
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
+set omnifunc=syntaxcomplete#Complete
 
 let g:jsx_ext_required = 0
 nmap <silent> <C-k> <Plug>(ale_previous_wrap)
