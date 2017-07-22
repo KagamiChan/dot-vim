@@ -37,3 +37,6 @@
 [submodule "bundle/denite.nvim"]
 	path = bundle/denite.nvim
 	url = https://github.com/Shougo/denite.nvim.git
+[submodule "bundle/deoplete.nvim"]
+	path = bundle/deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git

@@ -25,3 +25,7 @@ set guifont=Fira\ Code:h16
 set autochdir
 
 set number
+
+if has('nvim')
+  let g:deoplete#enable_at_startup = 1
+endif
